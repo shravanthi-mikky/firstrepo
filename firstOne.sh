@@ -11,4 +11,4 @@ echo "Calculating Wages for a MOnth"
 echo	"-Assume 20 Working Day per Month"
 echo "Calculate Wages till a condition of total working hours or days is reached for month"
 echo	"-Assume 100 hours and 20 days"
-
+echo "Refactor the Code to write a function to get work hours"
