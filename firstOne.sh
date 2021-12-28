@@ -13,3 +13,4 @@ echo "Calculate Wages till a condition of total working hours or days is reached
 echo	"-Assume 100 hours and 20 days"
 echo "Refactor the Code to write a function to get work hours"
 echo "Store the Daily Wage along with the Total Wage"
+echo "Store the Day and the Daily Wage along with the Total Wage"
